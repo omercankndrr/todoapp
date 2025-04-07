@@ -17,5 +17,3 @@ Todoları tarayıcıda saklamak ve sayfa yenilendiğinde kaybolmamalarını sağ
 Bu uygulama, JavaScript'in temel özelliklerini öğrenirken aynı zamanda DOM manipülasyonu, olay dinleyicileri ve localStorage gibi önemli konularda deneyim kazanmamı sağladı. Kodun işlevselliğini her geçen gün geliştirerek daha güçlü ve kullanıcı dostu bir uygulama yapmayı hedefliyorum.
 
 Bu proje, JavaScript öğrenme yolculuğumda önemli bir adım oldu ve daha fazla uygulama geliştirerek becerilerimi artırmayı planlıyorum!
-
-Bu metin, JavaScript ile geliştirdiğiniz bu uygulamanın temel işlevlerini ve öğrendiğiniz teknikleri vurgulayan, anlaşılır ve motive edici bir yazı olacaktır.
